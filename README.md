@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Passionate [Your Role: Developer/Designer/etc.] | 🌍 Based in [Location] | 💡 Always Learning</h3>
+<h1 align="center">Hi 👋, I'm Anonymous</h1>
+<h3 align="center">🚀 Passionate HACKER | 🌍 Based in WEST BENGAL | 💡 Always Learning</h3>
 
 <!-- Animated Line -->
 <p align="center">
@@ -10,11 +10,8 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently working on **[Your Project/Goal]**
-- 🌱 I’m learning **[Tech/Frameworks you’re learning]**
-- 👯 I’m looking to collaborate on **Open Source / Interesting Projects**
-- 💬 Ask me about **[Your Key Skills / Expertise]**
-- ⚡ Fun fact: **[Something quirky about you]**
+- 🔭 I’m currently working on **CYBERSECURITY**
+- 🌱 I’m learning **ADVANCED DIPLOMA IN CYBER SECURITY**
 
 ---
 
