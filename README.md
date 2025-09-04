@@ -1,47 +1,58 @@
-<h1 align="left">Hey 👋 I'm Anonymous What's up?</h1>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">🚀 Passionate [Your Role: Developer/Designer/etc.] | 🌍 Based in [Location] | 💡 Always Learning</h3>
 
-###
+<!-- Animated Line -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=440&height=45&lines=Full-Stack+Developer;Open-Source+Enthusiast;Lifelong+Learner;Tech+Explorer" />
+</p>
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+---
 
-###
+### 🌟 About Me
+- 🔭 I’m currently working on **[Your Project/Goal]**
+- 🌱 I’m learning **[Tech/Frameworks you’re learning]**
+- 👯 I’m looking to collaborate on **Open Source / Interesting Projects**
+- 💬 Ask me about **[Your Key Skills / Expertise]**
+- ⚡ Fun fact: **[Something quirky about you]**
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,html,css,tailwind,git,docker,linux,mysql,mongodb" />
+</p>
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+---
 
-###
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
+### 🚀 Streak & Contributions
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="40" alt="networkx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
+---
 
-###
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOURUSERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://twitter.com/YOURUSERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+
+---
+
+⭐️ From [YOUR USERNAME](https://github.com/YOURUSERNAME)
